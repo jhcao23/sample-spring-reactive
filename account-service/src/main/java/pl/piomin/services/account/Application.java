@@ -16,7 +16,7 @@ public class Application {
 	}
 
 	public @Bean MongoClient mongoClient() {
-		return MongoClients.create("mongodb://192.168.99.100");
+		return MongoClients.create("mongodb://localhost");
 	}
 
 	public @Bean ReactiveMongoTemplate reactiveMongoTemplate() {
