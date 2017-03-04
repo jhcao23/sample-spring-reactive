@@ -1,4 +1,5 @@
 # This repository is based on [piomin/sample-spring-reactive](https://github.com/piomin/sample-spring-reactive)
+and blog [Reactive microservices with Spring 5](https://piotrminkowski.wordpress.com/2017/02/16/reactive-microservices-with-spring-5/).
 all versions are updated to the latest according to the updated date.
 
 ## Install Docker first:
@@ -18,4 +19,3 @@ open browser [localhost:2222](http://localhost:2222)
 
 ## `cd` to `customer service` folder and run `mvn spring-boot:run`
 open browser [localhost:2223](http://localhost:2223)
-
