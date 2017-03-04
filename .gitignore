@@ -2,10 +2,10 @@
 .idea/
 **/*.iml
 **/.idea/
-**/.settings
-**/target
-**/bin
-/bin
+**/.settings/
+**/target/
+**/bin/
+/bin/
 /.settings/
 /target/
 /.project
